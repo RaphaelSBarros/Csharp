@@ -1,0 +1,45 @@
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.exe
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.deps.json
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.runtimeconfig.json
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.dll
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.pdb
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.csproj.AssemblyReference.cache
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfo.cs
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.dll
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\refint\Csharp.dll
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.pdb
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.genruntimeconfig.cache
+C:\Users\raphael.barros\OneDrive - SENAC-SC\Área de Trabalho\Csharp\obj\Debug\net7.0\ref\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.exe
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.deps.json
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.runtimeconfig.json
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\bin\Debug\net7.0\Csharp.pdb
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.csproj.AssemblyReference.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfo.cs
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\refint\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.pdb
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\Csharp.genruntimeconfig.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\obj\Debug\net7.0\ref\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\bin\Debug\net7.0\Csharp.exe
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\bin\Debug\net7.0\Csharp.deps.json
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\bin\Debug\net7.0\Csharp.runtimeconfig.json
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\bin\Debug\net7.0\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\bin\Debug\net7.0\Csharp.pdb
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.csproj.AssemblyReference.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.AssemblyInfo.cs
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\refint\Csharp.dll
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.pdb
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\Csharp.genruntimeconfig.cache
+C:\Users\Rapha\OneDrive\Área de Trabalho\Csharp\IntroCSharp\obj\Debug\net7.0\ref\Csharp.dll
